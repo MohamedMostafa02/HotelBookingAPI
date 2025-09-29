@@ -1,0 +1,60 @@
+# Build folders
+bin/
+obj/
+
+# Visual Studio specific folders
+.vs/
+.vscode/
+.idea/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Log and temp files
+*.log
+logs/
+temp/
+[Ll]og/
+[Ll]ogs/
+[Tt]emp/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Backup & temporary files
+*~
+*.bak
+*.tmp
+*.temp
+*.swp
+*.orig
+
+# ReSharper / Rider / Analyzer files
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Coverage and test result folders
+TestResults/
+coverage/
+coverage*.json
+lcov.info
+
+# Publish output
+publish/
+out/
+dist/
+
+# Package cache
+packages/
+artifacts/
+
+# Node modules (in case you have frontend part)
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
